@@ -32,4 +32,8 @@
 
 ## 📫 ติดต่อ
 
-- GitHub: [@owen-ttta](https://github.com/owen-ttta)
+[![GitHub](https://img.shields.io/badge/GitHub-owen--ttta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owen-ttta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sitthisak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sitthisak-phaisanphiphak-3a2048370/)
+[![Facebook](https://img.shields.io/badge/Facebook-owen.ttta-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/owen.ttta)
+[![Instagram](https://img.shields.io/badge/Instagram-owen.ttta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owen.ttta)
+[![Threads](https://img.shields.io/badge/Threads-owen.ttta-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@owen.ttta)
