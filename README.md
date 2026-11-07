@@ -26,10 +26,9 @@
 ## 📊 GitHub Stats
 
 ![Followers](https://img.shields.io/github/followers/owen-ttta?style=for-the-badge&logo=github&label=Followers)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fowen-ttta)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fowen-ttta)
 ![Profile Views](https://komarev.com/ghpvc/?username=owen-ttta&style=for-the-badge&color=blue)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=owen-ttta&theme=tokyonight&hide_border=true)
+![Total Stars](https://img.shields.io/github/stars/owen-ttta?style=for-the-badge&logo=github&label=Stars)
 
 ## 📫 ติดต่อ
 
