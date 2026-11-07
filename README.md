@@ -32,6 +32,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=owen-ttta&style=for-the-badge&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/owen-ttta?style=for-the-badge&logo=github&label=Stars)
 
+## 🚀 โปรเจกต์
+
+| โปรเจกต์ | รายละเอียด | Stack |
+|---|---|---|
+| 🏠 **Roommate Matching System** | ระบบจับคู่เพื่อนร่วมห้อง แยก Frontend / Backend | Expo (React Native), NestJS |
+| 🏥 **uVilleCare Plus** | แพลตฟอร์มจัดการสุขภาพ 4 กลุ่มผู้ใช้ มีแบบสำรวจสุขภาพ รายงานโรคระบาด PDPA consent และ Dashboard | Next.js, PostgreSQL, Prisma, Tailwind, Vercel |
+| 🎓 **Student Management System** | ระบบจัดการนักศึกษา แยกสิทธิ์ STUDENT / PM / ADMIN | Spring Boot, PostgreSQL, Next.js |
+| 🍽️ **MenuQR** | Micro-SaaS เมนูอาหารผ่าน QR Code | Bun, Next.js 15, Prisma, PostgreSQL, NextAuth, Stripe, Cloudflare R2 |
+| 🤖 **Facebook Automation** | ระบบโพสต์ Facebook อัตโนมัติด้วย AI | n8n, Make.com, Airtable, Gemini, Facebook Graph API |
+| 🌱 **Biogas Control System** | เฟิร์มแวร์ควบคุมระบบก๊าซชีวภาพ (blower, สอบเทียบ O2 sensor, alarm) พร้อม Dashboard ผ่าน WebSerial | Industruino IND.I/O 1286, React, TypeScript |
+| 🖨️ **3D Printer Monitoring** | ระบบมอนิเตอร์เครื่องพิมพ์ 3D หลายเครื่อง ติดตามเส้นพลาสติก แจ้งเตือนผ่าน LINE | Node.js, Moonraker API, LINE Messaging API, PM2 |
+| 🌐 **Self-hosted Infrastructure** | เซิร์ฟเวอร์ส่วนตัว ตั้งค่า PostgreSQL SSL, Tailscale, Cloudflare Tunnel | Linux, Apache, Cloudflare, Tailscale |
+
 ## 📫 ติดต่อ
 
 [![GitHub](https://img.shields.io/badge/GitHub-owen--ttta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owen-ttta)
