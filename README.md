@@ -9,6 +9,8 @@
 - 💬 ถามผมได้เรื่อง Full-stack, Backend, Self-hosting และ Automation
 - 🏢 เกี่ยวข้องกับ TTTA
 
+🌐 ผลงานของผม: [portfolio.owenx.shop](https://portfolio.owenx.shop/)
+
 ## 🛠️ Tech Stack
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
