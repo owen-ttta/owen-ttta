@@ -25,8 +25,11 @@
 
 ## 📊 GitHub Stats
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-ttta&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owen-ttta&layout=compact&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/owen-ttta?style=for-the-badge&logo=github&label=Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fowen-ttta)
+![Profile Views](https://komarev.com/ghpvc/?username=owen-ttta&style=for-the-badge&color=blue)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=owen-ttta&theme=tokyonight&hide_border=true)
 
 ## 📫 ติดต่อ
 
